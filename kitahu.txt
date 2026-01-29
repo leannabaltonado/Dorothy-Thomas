@@ -1,1 +1,5 @@
 hello
+1. switch to main
+2. pull from remote
+3. merge out feature branch
+4. push
